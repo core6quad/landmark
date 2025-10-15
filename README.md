@@ -1,5 +1,7 @@
-# landmark
-a simple 3D application/benchmark made in Godot
+# landmark 
+<img width="120" height="120" alt="icon" src="https://github.com/user-attachments/assets/f688d17e-e1ae-4156-aa63-dee47e3aaf44" />
+
+A simple 3D demo/benchmark made in Godot
 
 
 <img width="1009" height="444" alt="ss" src="https://github.com/user-attachments/assets/130e9766-91e4-4c20-a344-d9b18ff3e629" />
