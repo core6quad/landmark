@@ -1,0 +1,9 @@
+[gd_resource type="Sky" load_steps=3 format=3 uid="uid://cdqrupoy4muxd"]
+
+[ext_resource type="Texture2D" uid="uid://dagxaqxw3a2kf" path="res://assets/HDRIs/Qwantani Morning (Pure Sky)/1k/Qwantani Morning (Pure Sky).exr" id="1_obihp"]
+
+[sub_resource type="PanoramaSkyMaterial" id="PanoramaSkyMaterial_3npol"]
+panorama = ExtResource("1_obihp")
+
+[resource]
+sky_material = SubResource("PanoramaSkyMaterial_3npol")

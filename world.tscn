@@ -1,0 +1,80 @@
+[gd_scene load_steps=15 format=3 uid="uid://bsnleg8gqvt4c"]
+
+[ext_resource type="Sky" uid="uid://cdqrupoy4muxd" path="res://assets/HDRIs/Qwantani Morning (Pure Sky)/1k/Qwantani Morning (Pure Sky).tres" id="1_f3sb7"]
+[ext_resource type="Script" uid="uid://sfpb73tfiqj2" path="res://scripts/worldgen.gd" id="2_fj7yv"]
+[ext_resource type="Material" uid="uid://c6juy1gsevxqc" path="res://assets/textures/Sandy Gravel/1k/Sandy Gravel.tres" id="3_036b0"]
+[ext_resource type="Script" uid="uid://8vyuhyx0xogt" path="res://addons/freecam_3D/freecam.gd" id="3_tlwt5"]
+[ext_resource type="Material" uid="uid://qq564tqk2gw4" path="res://assets/textures/Leafy Grass/1k/Leafy Grass.tres" id="4_dwbse"]
+[ext_resource type="Material" uid="uid://bx1qbrjafhk0g" path="res://assets/textures/Rock Face/1k/Rock Face.tres" id="5_dwbse"]
+[ext_resource type="Script" uid="uid://bvvewqc0jfcsa" path="res://addons/boujie_water_shader/types/water_material_designer.gd" id="7_pkg7o"]
+[ext_resource type="Material" uid="uid://bahbyyjlr36ku" path="res://water.tres" id="8_gbfbk"]
+[ext_resource type="Script" uid="uid://rl6ddhefhiq2" path="res://addons/boujie_water_shader/types/ocean.gd" id="9_ioo17"]
+[ext_resource type="Material" uid="uid://cvnsu7lttsfsh" path="res://addons/boujie_water_shader/prefabs/outset_ocean_material.tres" id="10_wse8f"]
+
+[sub_resource type="Environment" id="Environment_fj7yv"]
+background_mode = 2
+sky = ExtResource("1_f3sb7")
+ssr_enabled = true
+ssil_enabled = true
+sdfgi_enabled = true
+sdfgi_use_occlusion = true
+glow_enabled = true
+volumetric_fog_enabled = true
+volumetric_fog_density = 0.01
+
+[sub_resource type="CameraAttributesPractical" id="CameraAttributesPractical_wse8f"]
+auto_exposure_enabled = true
+dof_blur_far_enabled = true
+dof_blur_far_distance = 36.33
+dof_blur_near_enabled = true
+
+[sub_resource type="Compositor" id="Compositor_wse8f"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_gbfbk"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_fj7yv")
+camera_attributes = SubResource("CameraAttributesPractical_wse8f")
+compositor = SubResource("Compositor_wse8f")
+
+[node name="World" type="Node3D" parent="."]
+script = ExtResource("2_fj7yv")
+island_scale = 92.661
+noise_scale = 8.267999999999999
+max_height = 20.0
+sand_material = ExtResource("3_036b0")
+grass_material = ExtResource("4_dwbse")
+rock_material = ExtResource("5_dwbse")
+
+[node name="Freecam3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 9.095507, 0)
+script = ExtResource("3_tlwt5")
+metadata/_custom_type_script = "uid://8vyuhyx0xogt"
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.76561797, 0, -0.6432955, 0.25259525, 0.91968447, 0.30062616, 0.5916289, -0.39265817, 0.70412695, 0, 2.3691432, 0)
+shadow_enabled = true
+
+[node name="WaterMaterialDesigner" type="Node" parent="."]
+script = ExtResource("7_pkg7o")
+material = ExtResource("8_gbfbk")
+update_on_ready = true
+metadata/_custom_type_script = "uid://bvvewqc0jfcsa"
+
+[node name="CSGMesh3D" type="CSGMesh3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1.283776, 0)
+mesh = SubResource("BoxMesh_gbfbk")
+material = ExtResource("8_gbfbk")
+
+[node name="Ocean" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.8324997, 0)
+script = ExtResource("9_ioo17")
+material = ExtResource("10_wse8f")
+unit_size = 0.1
+metadata/_custom_type_script = "uid://rl6ddhefhiq2"
+
+[node name="ReflectionProbe" type="ReflectionProbe" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.624329, 6.3734026, 1.8654633)
+size = Vector3(104.316284, 28.663086, 87.80972)
