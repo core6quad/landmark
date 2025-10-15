@@ -1,0 +1,83 @@
+res://addons/boujie_water_shader/icons/CameraFollower3D.svg::a5960a953eb6e7f60882b6fd553e044584c146b197e5a4487faca435f3ec5740::1760538133::
+res://addons/boujie_water_shader/icons/icon.png::082dd6cfc51e64503c28ff29f867cc73e3041404a90f398ccf21166b203b2c96::1760538133::
+res://addons/boujie_water_shader/icons/icon.svg::7ec739def8c11b27e4b99af2b7190714b9f4c00a0bd6631989b5c418b09d7887::1760538133::
+res://addons/boujie_water_shader/icons/Ocean.png::ee52100d7dfdcaab3bd264756e46b0a3bd2a1fec36b7ad64f682a2f048ff71ee::1760538133::
+res://addons/boujie_water_shader/icons/Ocean.svg::8848691b9c9c1a0632bb3393bc0ee6ce81f90f3059ba5d0aae083b839e30bfc3::1760538133::
+res://addons/boujie_water_shader/icons/WaterMaterialDesigner.svg::6bb14800daf21ea8efe013c1480d1db2935766519b23f9a3a3613eb04fd7c0dd::1760538133::
+res://addons/boujie_water_shader/icons/water_shader_avatar.png::0015cb549106c8b377b26396c7a973c252e5219029f06bae487f7eee448eb645::1760538133::
+res://addons/boujie_water_shader/icons/Wave.svg::228f2b2854682e078ca326ca9f0e4a9bf0868eb7c41241924a497b03ca45fcc6::1760538133::
+res://addons/boujie_water_shader/prefabs/deep_ocean.tscn::49430a063c0a8ccd833e02a40ea03ffa::1760538133::res://.godot/exported/1028060487/export-dc16134f5bb465060ae6d1472f43ac00-deep_ocean.scn
+res://addons/boujie_water_shader/prefabs/deep_ocean_material.tres::5ccc4eca5c29930fbd261b7e58a3d3c3::1760538133::res://.godot/exported/1028060487/export-5dc9c79fa2b16f32818ae0d78a82afd3-deep_ocean_material.res
+res://addons/boujie_water_shader/prefabs/ice_material.tres::aea115c500db97178c8dc3e024adc21f::1760538133::res://.godot/exported/1028060487/export-c38e2620c3a698ccccf98a04604adfa0-ice_material.res
+res://addons/boujie_water_shader/prefabs/obsidian_material.tres::30b6b6b1e3d06f58028167842a0f5b05::1760538133::res://.godot/exported/1028060487/export-3020d29190aaf7c4f4e77db5f4394b20-obsidian_material.res
+res://addons/boujie_water_shader/prefabs/outset_ocean.tscn::81b04a62f57f5411dfb85b4aeeffb679::1760538133::res://.godot/exported/1028060487/export-63ce0eed753ffd4d27e168858efca70f-outset_ocean.scn
+res://addons/boujie_water_shader/prefabs/outset_ocean_material.tres::3f1e91e4ef6bb5224439ddacf5a69c37::1760538133::res://.godot/exported/1028060487/export-f6fb10d9fcfaf9ebd658a5de62ce3e16-outset_ocean_material.res
+res://addons/boujie_water_shader/shader/foam_1.png::54126b49d117ccd2056c9c3f0fa4be67039a1c20cbe225535761f28d845eb67d::1760538133::
+res://addons/boujie_water_shader/shader/foam_2.png::86cf93ab7733a9cfd322b82249c92f4dac3cb690ebc0d55eb65d870139d6631e::1760538133::
+res://addons/boujie_water_shader/shader/ice_albedo.png::0802ca74d259666224108fbe1c8cd18c7513b2c8d57b22b848402ff8afae7917::1760538133::
+res://addons/boujie_water_shader/shader/ocean_albedo_1.png::fa0c1a43323d00f27bc9a398098c5e3581eba8bf57c66a6d96f4a32c0d3cc251::1760538133::
+res://addons/boujie_water_shader/shader/ocean_albedo_2.png::8b492fcc40f05ba0ad90b5fd031617458f8a17a2d0e6a95119959e37f3f68d8b::1760538133::
+res://addons/boujie_water_shader/shader/ocean_albedo_white_highcontrast.png::988869da47fe28a61b2a0131fc16f2487f8fd808fce1a9e35b36596f02b672d5::1760538133::
+res://addons/boujie_water_shader/shader/refraction.png::07d3f25497bab1335733af533117d40a79bc222dc638ab10be222487baf870b1::1760538133::
+res://addons/boujie_water_shader/shader/water.gdshader::7852c3eef5b52ef86efd5eeeda9a528b::1760538133::
+res://addons/freecam_3D/mc-camera2.png::189b8e57bce6d7bbf64b3827f9eb099250e8c326129a00cf5f6e3a1f2523f539::1760535607::
+res://addons/PolyHavenImport/browse.tscn::fcdd74d81441c7a0007e2e40ffad654e::1760535598::res://.godot/exported/1028060487/export-aeebbbeb8f1c942e95d9f13992703be5-browse.scn
+res://addons/PolyHavenImport/entry.tscn::93eff4d291fbb69736e74bda0218c691::1760535598::res://.godot/exported/1028060487/export-0eb9673125b6d8d471df217ebad71ae7-entry.scn
+res://addons/PolyHavenImport/icon.png::c0101e98c63ef8b166bab25d2f708b0a5d1311f2818ad55b8b8c8ccfd163b77b::1760535598::
+res://addons/PolyHavenImport/logo-256.png::b0d85aee3de5519791df917362d7fdad01123a913b60a542cb9e9fff65e3223b::1760535598::
+res://assets/HDRIs/Qwantani Morning (Pure Sky)/1k/Qwantani Morning (Pure Sky).exr::3f9ffab46e02bbc055dfbbdf1abcd891bb25037d86bc05c10378cf303bffc1fd::1760535637::
+res://assets/HDRIs/Qwantani Morning (Pure Sky)/1k/Qwantani Morning (Pure Sky).tres::52dcb1a78a6bc8e406774ed8fb0bd807::1760539602::res://.godot/exported/1028060487/export-0fedb2c9c24d4ce2400b37976c60c119-Qwantani Morning (Pure Sky).res
+res://assets/textures/Leafy Grass/1k/textures/leafy_grass_ao_1k.png::30333f7caa6a2984bf3fcea54b0f95b122347cd10c5eea6a526b437ef592d86d::1760536749::
+res://assets/textures/Leafy Grass/1k/textures/leafy_grass_diff_1k.png::7639691afa92caa8034236e6a0687bfeb82fd01307eedcd3d13cdc316266ee03::1760536749::
+res://assets/textures/Leafy Grass/1k/textures/leafy_grass_disp_1k.png::9c38b0ae5af703060e010f96f03a5e3de43d5bcf0bec4ff496515b12b1a2ccb1::1760536749::
+res://assets/textures/Leafy Grass/1k/textures/leafy_grass_nor_gl_1k.png::a98f306f4dafb1e956d562b78503e1741f10655edb795daed5b2d96ecc3cba24::1760536749::
+res://assets/textures/Leafy Grass/1k/textures/leafy_grass_rough_1k.png::5dff12e1e81532a92d074e63473ab1270294b8c437f8006a2b6efdafcb9c7492::1760536749::
+res://assets/textures/Leafy Grass/1k/Leafy Grass.tres::4464b319ee28a9d81b0e00510b2c522f::1760536750::res://.godot/exported/1028060487/export-a28053761adf435e2c39e359319096a6-Leafy Grass.res
+res://assets/textures/Rock Face/1k/textures/rock_face_ao_1k.png::7397cd43e327d6d46277e8b897c7e665e1fefaa378ae9af5f8ac5ad2b0f9d9af::1760536834::
+res://assets/textures/Rock Face/1k/textures/rock_face_diff_1k.png::ace5b9671b95c13f51d55ae6aebfef0a3407692d9271f1c20172a136f2b05b0b::1760536834::
+res://assets/textures/Rock Face/1k/textures/rock_face_disp_1k.png::8bf91d98c1a607239630e2196882162152af2ece63a2d10f9e5088a520c53460::1760536834::
+res://assets/textures/Rock Face/1k/textures/rock_face_nor_gl_1k.png::9d13dc8de098d5c2a5bee844c317b94622cfea1d3a2f3aac785f553c1e36c227::1760536834::
+res://assets/textures/Rock Face/1k/textures/rock_face_rough_1k.png::76f3046b958dad65712f05aa87eb33185f15e883cd3a9b0763ffe42c2cf4f2e1::1760536834::
+res://assets/textures/Rock Face/1k/Rock Face.tres::e469039f6ca2825deb9cb5828d71f0f2::1760536835::res://.godot/exported/1028060487/export-2ed999b38d72fab31476fb52bb2ff869-Rock Face.res
+res://assets/textures/Sandy Gravel/1k/textures/sandy_gravel_ao_1k.png::2d835609c1f1c4b7f4a02c57a8575c1a21a9d2482fd7d5a8a1edcf8e10e0a6f3::1760536793::
+res://assets/textures/Sandy Gravel/1k/textures/sandy_gravel_diff_1k.png::0b3144b3cfb21a91d15c3f6c387b49ee24425332d5af560070e85b72fdf7b596::1760536793::
+res://assets/textures/Sandy Gravel/1k/textures/sandy_gravel_disp_1k.png::918bde4fc22de8ca1dbb7ceb61a86fd9b97a9fe07336a95a94ce3da20b4ede60::1760536793::
+res://assets/textures/Sandy Gravel/1k/textures/sandy_gravel_nor_gl_1k.png::777be6cf0052ff2ecea7fcee35bc8067f68c618c93d810a1572dfc2681df571f::1760536793::
+res://assets/textures/Sandy Gravel/1k/textures/sandy_gravel_rough_1k.png::f325a70d6c6265a72b96ec3f0f2a94a7266a440a35025687ef4f336b3ebab4b4::1760536793::
+res://assets/textures/Sandy Gravel/1k/Sandy Gravel.tres::11600742a3e6445ced9740e690175929::1760536793::res://.godot/exported/1028060487/export-681bcf7622d7f142ded552cc48af4c3d-Sandy Gravel.res
+res://assets/checker.png::17ae2f1dc7e00e51e2736057b41e5adf11686e0a96d492456f9b96b4f31989ee::1760538004::
+res://example/boujie_water_shader/foam_waves/foam1.tres::45fe4a576d95a8e85af96d2ce151dc04::1760538133::res://.godot/exported/1028060487/export-497088c7f0e5f37a62a9faf3dcad16d3-foam1.res
+res://example/boujie_water_shader/foam_waves/foam2.tres::79aa99145ba51c92d7048656aeb87489::1760538133::res://.godot/exported/1028060487/export-7b7c1481b23e2888c03fc1b44b1f1187-foam2.res
+res://example/boujie_water_shader/foam_waves/foam3.tres::d4f71c7f575d9366b6dfccb321a3c351::1760538133::res://.godot/exported/1028060487/export-99a8d45ddf6ec86ff1cac290b4a5e05c-foam3.res
+res://example/boujie_water_shader/foam_waves/foam4.tres::b73eb65eabc4101bae10f45e51911cd2::1760538133::res://.godot/exported/1028060487/export-e4ada357646d206d9f169a947a272224-foam4.res
+res://example/boujie_water_shader/height_waves/height1.tres::67b8190512a433ae53f13bd59e3f0c6e::1760538133::res://.godot/exported/1028060487/export-45bf1f19b6f247ac372220e4f539bf8b-height1.res
+res://example/boujie_water_shader/height_waves/height2.tres::2b0c02a7b85942b4a89a73534b308491::1760538133::res://.godot/exported/1028060487/export-78179db0372fd90b2ecb0a7cab3176e3-height2.res
+res://example/boujie_water_shader/height_waves/height3.tres::9a14d67d8133871cdab5656c59662018::1760538133::res://.godot/exported/1028060487/export-831da0f86099daa6cdb1e7fe724cef9f-height3.res
+res://example/boujie_water_shader/height_waves/height4.tres::4518ffe76f57c19cd99bd09443bedeff::1760538133::res://.godot/exported/1028060487/export-877ca30b3780d1fcb9e8860f05452eee-height4.res
+res://example/boujie_water_shader/height_waves/height5.tres::636b2c056e3142b56c7ff6d456a7dc3e::1760538133::res://.godot/exported/1028060487/export-070479ea7b433d74bee775ba67dac997-height5.res
+res://example/boujie_water_shader/height_waves/height_super.tres::8964d65ed4c19147c7febd264ab7802e::1760538133::res://.godot/exported/1028060487/export-1f6eedf6ce07373ffe88c7b5ca6a2330-height_super.res
+res://example/boujie_water_shader/obelisk/diffuse.tga::c7f51202044b7e69dfd98699fc0a535c2b5cbeb8224da086e5387fe5d6761583::1760538133::
+res://example/boujie_water_shader/obelisk/normal.tga::05293c05f7df23959b37640e8dfaad53f79133abe00537c7b36d5667d8d4cc45::1760538133::
+res://example/boujie_water_shader/obelisk/obelisk.tscn::96600caae23c2be1145ed51586a07490::1760538134::res://.godot/exported/1028060487/export-08ddd198c369ca262a9812136c4b670c-obelisk.scn
+res://example/boujie_water_shader/obelisk/obelisk_material.tres::542049db38ec91868dba815bc6d5a5de::1760538134::res://.godot/exported/1028060487/export-00d36ba12eeb9da7438a3f59d5804371-obelisk_material.res
+res://example/boujie_water_shader/obelisk/pyramid_pillar.obj::854c9f975ab1bdee259397c35fbc8a03c36cb8c03733b21ce5e01ae119cf122e::1760538134::
+res://example/boujie_water_shader/obelisk/specular.tga::f64487d2d4778fb68b29dde1f56394199a4540b8ebc7ba99982840e4c2918243::1760538134::
+res://example/boujie_water_shader/obelisk/StoneFloorTexture.png::4526fbc3a18a413f23005b7c3969c55d2b89e65fcac37b144693393b744342a1::1760538133::
+res://example/boujie_water_shader/pedestal/MetalPlates_Diffuse.tga::9e7c61cca133124c71215cbe13273f49446398b215e6c6c2ed048283093457f6::1760538134::
+res://example/boujie_water_shader/pedestal/MetalPlates_Normal_03.tga::b288607a3a734e254e45b6bd3ce56e63b729c3529753e619fe77d979e35aeea5::1760538134::
+res://example/boujie_water_shader/pedestal/pedestal.tscn::e138c867873bd911f91b254e52ed3a5b::1760538134::res://.godot/exported/1028060487/export-e7793a95b9b0cc1c4d61cd8b87a171df-pedestal.scn
+res://example/boujie_water_shader/pedestal/pedestal_material.tres::ac0ec72918ff34514480efaf86c68066::1760538134::res://.godot/exported/1028060487/export-03dfb10703b771984fdca88f8b24f3f3-pedestal_material.res
+res://example/boujie_water_shader/uv_waves/uvwave1.tres::6a9a7bdcb07259856856085617f9e549::1760538134::res://.godot/exported/1028060487/export-f47e21ec5737890cc21d5bb09a6acaaa-uvwave1.res
+res://example/boujie_water_shader/uv_waves/uvwave2.tres::037334d301c07c7ad258d820764e9d67::1760538134::res://.godot/exported/1028060487/export-07f02c6d5b31cec48aedb773380a2559-uvwave2.res
+res://example/boujie_water_shader/DropWithDistance.gdshader::9e7f6025972000d76cfebc50234ecef2::1760538133::
+res://example/boujie_water_shader/MapEnvironment.tres::35705f2e0bf5d4353b9f8aed34d321cc::1760538133::res://.godot/exported/1028060487/export-7ed07cbcaefd2bafdb5e9d7b158e1cc3-MapEnvironment.res
+res://example/boujie_water_shader/mountains.obj::961b67d3578fa3af04eca0b1cf5c5705cb87d55a92cf9a74574ce72d8ebd387b::1760538133::
+res://example/boujie_water_shader/mountain_material.tres::be79b72ebee441071741eb49331b8e0a::1760538133::res://.godot/exported/1028060487/export-0d403899bd983af3fc219374f5c99b7d-mountain_material.res
+res://example/boujie_water_shader/Sand.png::c9c430f648b7960f095f030d97582e0d5e37ef77afbfb9e0c899f9dcdddfd4af::1760538133::
+res://example/boujie_water_shader/subdivcube.obj::5e4623d91ea9f644d3c79839c67a2271629f95b991b34bc3feada9038c663f0c::1760538134::
+res://example/boujie_water_shader/UV_checker_grid_dark.png::b7a4bfe4ad652645f3ed570bab7845fedc0fa9190360c10c2cbaff43b8d77faf::1760538133::
+res://example/boujie_water_shader/water_shader_examples.tscn::737ac4b533a8a84e6d83d5e304054e83::1760538134::res://.godot/exported/1028060487/export-b0817df471dbf936b76515a2e5a00c04-water_shader_examples.scn
+res://icon.png::7b4930c82a7a332e6f0ca8e80fb22ace93d99fe8aea5ce050b4660cb85d9e9b6::1760540078::
+res://icon.svg::a16f2eed1b4496c4abf03d329708ba09045ae704d006478725d4c13060effdc9::1760535157::
+res://water.tres::a2cd42e7a8c56056ca17801fc5801d3e::1760538169::res://.godot/exported/1028060487/export-149afc0dcac1e98be9a816c474bea600-water.res
+res://world.tscn::4ab72f400776521ac33032b65c71410d::1760540866::res://.godot/exported/1028060487/export-76e0adcbc83681695885bae615f516ae-world.scn

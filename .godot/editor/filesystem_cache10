@@ -1,0 +1,150 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1760540078
+export_presets.cfg::TextFile::-1::1760539747::0::1::::<><><>0<>0<><>::
+icon.png::CompressedTexture2D::2901880197004659853::1760540078::1760540079::1::::<><><>0<>0<>93d99fe8aea5ce050b4660cb85d9e9b6<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+icon.svg::CompressedTexture2D::985107900648845487::1760535157::1760535179::1::::<><><>0<>0<>045ae704d006478725d4c13060effdc9<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+water.tres::ShaderMaterial::2400976179005290740::1760538169::0::1::::<><><>0<>0<><>::
+world.tscn::PackedScene::3677332176490000592::1760539760::0::1::::<><><>0<>0<><>::uid://cdqrupoy4muxd::::res://assets/HDRIs/Qwantani Morning (Pure Sky)/1k/Qwantani Morning (Pure Sky).tres<>uid://sfpb73tfiqj2::::res://scripts/worldgen.gd<>uid://c6juy1gsevxqc::::res://assets/textures/Sandy Gravel/1k/Sandy Gravel.tres<>uid://8vyuhyx0xogt::::res://addons/freecam_3D/freecam.gd<>uid://qq564tqk2gw4::::res://assets/textures/Leafy Grass/1k/Leafy Grass.tres<>uid://bx1qbrjafhk0g::::res://assets/textures/Rock Face/1k/Rock Face.tres<>uid://bvvewqc0jfcsa::::res://addons/boujie_water_shader/types/water_material_designer.gd<>uid://bahbyyjlr36ku::::res://water.tres<>uid://rl6ddhefhiq2::::res://addons/boujie_water_shader/types/ocean.gd<>uid://cvnsu7lttsfsh::::res://addons/boujie_water_shader/prefabs/outset_ocean_material.tres
+::res://addons/::1760538133
+::res://addons/boujie_water_shader/::1760538134
+boujie_water_shader.gd::GDScript::3831398712066744514::1760538133::0::1::::<>EditorPlugin<><>0<>1<><>::
+LICENSE.md::TextFile::-1::1760538133::0::1::::<><><>0<>0<><>::
+plugin.cfg::TextFile::-1::1760538133::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1760538133::0::1::::<><><>0<>0<><>::
+::res://addons/boujie_water_shader/icons/::1760538135
+CameraFollower3D.svg::CompressedTexture2D::4429604127722294765::1760538133::1760538134::1::::<><><>0<>0<>84c146b197e5a4487faca435f3ec5740<>res://.godot/imported/CameraFollower3D.svg-22c4fa197f2efed46764960d1e5726df.ctex::
+icon.png::CompressedTexture2D::3182045478014885088::1760538133::1760538134::1::::<><><>0<>0<>e3041404a90f398ccf21166b203b2c96<>res://.godot/imported/icon.png-da37fc81b91a3bc3f6032036fe81e5f2.ctex::
+icon.svg::CompressedTexture2D::8234480361535333110::1760538133::1760538134::1::::<><><>0<>0<>b9f4c00a0bd6631989b5c418b09d7887<>res://.godot/imported/icon.svg-75e20815e59a93f6bcff2d230066feaa.ctex::
+Ocean.png::CompressedTexture2D::5582237755307837146::1760538133::1760538134::1::::<><><>0<>0<>bd2a1fec36b7ad64f682a2f048ff71ee<>res://.godot/imported/Ocean.png-4d50aad85729fc638d5c09e2cef1d42c.ctex::
+Ocean.svg::CompressedTexture2D::5522210069592051712::1760538133::1760538134::1::::<><><>0<>0<>81f90f3059ba5d0aae083b839e30bfc3<>res://.godot/imported/Ocean.svg-195a70f8e8b5f0204dc7cc10b7bfda8c.ctex::
+WaterMaterialDesigner.svg::CompressedTexture2D::5484723237211202084::1760538133::1760538134::1::::<><><>0<>0<>935766519b23f9a3a3613eb04fd7c0dd<>res://.godot/imported/WaterMaterialDesigner.svg-cad0f35b5c55405203ffff05ec656b38.ctex::
+water_shader_avatar.png::CompressedTexture2D::8845332304446800069::1760538133::1760538134::1::::<><><>0<>0<>52e5219029f06bae487f7eee448eb645<>res://.godot/imported/water_shader_avatar.png-3f5f5fb667feaa645aa7e8d42df8804f.ctex::
+Wave.svg::CompressedTexture2D::6344617440716220879::1760538133::1760538134::1::::<><><>0<>0<>f0868eb7c41241924a497b03ca45fcc6<>res://.godot/imported/Wave.svg-a624ac41666aaffdea81e7a38d99187b.ctex::
+::res://addons/boujie_water_shader/prefabs/::1760538134
+deep_ocean.tscn::PackedScene::574713314669523595::1760538133::0::1::::<><><>0<>0<><>::res://addons/boujie_water_shader/prefabs/ocean_prefab.gd<>uid://cu46b100244nd::::res://addons/boujie_water_shader/prefabs/deep_ocean_material.tres<>res://addons/boujie_water_shader/types/camera_follower_3d.gd<>res://addons/boujie_water_shader/types/water_material_designer.gd<>res://addons/boujie_water_shader/types/gerstner_wave.gd<>uid://cxeeuqlnw0v08::::res://example/boujie_water_shader/height_waves/height4.tres<>uid://c33noe5oxh41i::::res://example/boujie_water_shader/height_waves/height2.tres<>uid://bf2pvto4lly3o::::res://example/boujie_water_shader/foam_waves/foam1.tres<>uid://1wsbw638p6o2::::res://example/boujie_water_shader/foam_waves/foam2.tres<>uid://dp2iua60m7f8m::::res://example/boujie_water_shader/uv_waves/uvwave1.tres<>uid://3g1mc132n1al::::res://example/boujie_water_shader/uv_waves/uvwave2.tres
+deep_ocean_material.tres::ShaderMaterial::6238370612984603177::1760538133::0::1::::<><><>0<>0<><>::res://addons/boujie_water_shader/shader/water.gdshader<>uid://dck2b16gulx5d::::res://addons/boujie_water_shader/shader/ocean_albedo_white_highcontrast.png<>uid://cpav8p4gip0uk::::res://addons/boujie_water_shader/shader/refraction.png<>uid://cq0i08hinbihi::::res://addons/boujie_water_shader/shader/foam_2.png
+ice_material.tres::ShaderMaterial::4278063779488235823::1760538133::0::1::::<><><>0<>0<><>::res://addons/boujie_water_shader/shader/water.gdshader<>uid://b80wyvnjiqq6p::::res://addons/boujie_water_shader/shader/ice_albedo.png<>uid://bk6tootchx5gx::::res://addons/boujie_water_shader/shader/foam_1.png<>uid://cpav8p4gip0uk::::res://addons/boujie_water_shader/shader/refraction.png
+obsidian_material.tres::ShaderMaterial::7345297248807705500::1760538133::0::1::::<><><>0<>0<><>::res://addons/boujie_water_shader/shader/water.gdshader<>uid://b80wyvnjiqq6p::::res://addons/boujie_water_shader/shader/ice_albedo.png<>uid://cpav8p4gip0uk::::res://addons/boujie_water_shader/shader/refraction.png
+ocean_prefab.gd::GDScript::6945785211135835626::1760538133::0::1::::<>Ocean<><>0<>1<><>::
+outset_ocean.tscn::PackedScene::4228172015635072755::1760538133::0::1::::<><><>0<>0<><>::res://addons/boujie_water_shader/prefabs/ocean_prefab.gd<>uid://cvnsu7lttsfsh::::res://addons/boujie_water_shader/prefabs/outset_ocean_material.tres<>res://addons/boujie_water_shader/types/camera_follower_3d.gd<>res://addons/boujie_water_shader/types/water_material_designer.gd<>uid://bavxgduu5sv2c::::res://example/boujie_water_shader/height_waves/height1.tres<>uid://c33noe5oxh41i::::res://example/boujie_water_shader/height_waves/height2.tres<>uid://0hol4u8hadr8::::res://example/boujie_water_shader/height_waves/height3.tres<>uid://cxeeuqlnw0v08::::res://example/boujie_water_shader/height_waves/height4.tres<>uid://d4jrd7iuain81::::res://example/boujie_water_shader/height_waves/height5.tres<>uid://bf2pvto4lly3o::::res://example/boujie_water_shader/foam_waves/foam1.tres<>uid://1wsbw638p6o2::::res://example/boujie_water_shader/foam_waves/foam2.tres<>uid://byfaqt1j16ysr::::res://example/boujie_water_shader/foam_waves/foam3.tres<>uid://c5j78g2giv011::::res://example/boujie_water_shader/foam_waves/foam4.tres<>uid://dp2iua60m7f8m::::res://example/boujie_water_shader/uv_waves/uvwave1.tres<>uid://3g1mc132n1al::::res://example/boujie_water_shader/uv_waves/uvwave2.tres
+outset_ocean_material.tres::ShaderMaterial::6274774314964984031::1760538133::0::1::::<><><>0<>0<><>::res://addons/boujie_water_shader/shader/water.gdshader<>uid://c28pojjx0kja3::::res://addons/boujie_water_shader/shader/ocean_albedo_1.png<>uid://bk6tootchx5gx::::res://addons/boujie_water_shader/shader/foam_1.png<>uid://cpav8p4gip0uk::::res://addons/boujie_water_shader/shader/refraction.png
+::res://addons/boujie_water_shader/shader/::1760538134
+foam_1.png::CompressedTexture2D::3153484219205859331::1760538133::1760538134::1::::<><><>0<>0<>039a1c20cbe225535761f28d845eb67d<>res://.godot/imported/foam_1.png-b755cf04e9dac2b932f03aadbcd758f3.s3tc.ctex::
+foam_2.png::CompressedTexture2D::5948004434701058990::1760538133::1760538134::1::::<><><>0<>0<>ac3cb690ebc0d55eb65d870139d6631e<>res://.godot/imported/foam_2.png-570759ef2960a6cf7b52801b75a18e6d.s3tc.ctex::
+ice_albedo.png::CompressedTexture2D::4755641723987312205::1760538133::1760538134::1::::<><><>0<>0<>7513b2c8d57b22b848402ff8afae7917<>res://.godot/imported/ice_albedo.png-c302ee1112fb0340bd17acb2cfff5062.s3tc.ctex::
+ocean_albedo_1.png::CompressedTexture2D::6737000855195432256::1760538133::1760538134::1::::<><><>0<>0<>81eba8bf57c66a6d96f4a32c0d3cc251<>res://.godot/imported/ocean_albedo_1.png-669972af9d76395b1ae51309ac2e2ec5.s3tc.ctex::
+ocean_albedo_2.png::CompressedTexture2D::5131707199176423401::1760538133::1760538134::1::::<><><>0<>0<>8f8a17a2d0e6a95119959e37f3f68d8b<>res://.godot/imported/ocean_albedo_2.png-63fec20e6ecab31756973c79291a4334.s3tc.ctex::
+ocean_albedo_white_highcontrast.png::CompressedTexture2D::7321926074290404979::1760538133::1760538134::1::::<><><>0<>0<>7f8fd808fce1a9e35b36596f02b672d5<>res://.godot/imported/ocean_albedo_white_highcontrast.png-3a3aaf06806d705f194397a4ba62f921.s3tc.ctex::
+refraction.png::CompressedTexture2D::5827008842937147790::1760538133::1760538134::1::::<><><>0<>0<>79bc222dc638ab10be222487baf870b1<>res://.godot/imported/refraction.png-2113306a3ff8e3773ffd659afc1014bb.s3tc.ctex::
+water.gdshader::Shader::4020636853974358536::1760538133::0::1::::<><><>0<>0<><>::
+::res://addons/boujie_water_shader/types/::1760538134
+camera_follower_3d.gd::GDScript::2723899678867159956::1760538133::0::1::::CameraFollower3D<>Node3D<><>0<>0<><>::
+gerstner_wave.gd::GDScript::980849790797548897::1760538133::0::1::::GerstnerWave<>Resource<><>0<>0<><>::
+ocean.gd::GDScript::1217806249871072803::1760538133::0::1::::Ocean<>Node3D<><>0<>1<><>::
+water_material_designer.gd::GDScript::3904021332975333188::1760538133::0::1::::WaterMaterialDesigner<>Node<><>0<>1<><>::
+::res://addons/freecam_3D/::1760535607
+freecam.gd::GDScript::2361077102412917567::1760535607::0::1::::Freecam3D<>Camera3D<><>0<>0<><>::
+mc-camera2.png::CompressedTexture2D::6829481640343071396::1760535607::1760535607::1::::<><><>0<>0<>50e8c326129a00cf5f6e3a1f2523f539<>res://.godot/imported/mc-camera2.png-fe60f555c5ea92c0796267cd654ef834.ctex::
+plugin.cfg::TextFile::-1::1760535607::0::1::::<><><>0<>0<><>::
+plugin.gd::GDScript::1830673330486367058::1760535607::0::1::::<>EditorPlugin<><>0<>1<><>::
+::res://addons/PolyHavenImport/::1760535598
+api.gd::GDScript::878604166907061878::1760535598::0::1::::<>EditorPlugin<><>0<>1<><>::
+browse.gd::GDScript::188198903274636083::1760535598::0::1::::<>Page<><>0<>1<><>::
+browse.tscn::PackedScene::6989563542957860641::1760535598::0::1::::<><><>0<>0<><>::uid://cyn5ebk3cvh33::::res://addons/PolyHavenImport/logo-256.png<>res://addons/PolyHavenImport/browse.gd
+download.gd::GDScript::760144449297314373::1760535598::0::1::::<>Node<><>0<>1<><>::
+entry.gd::GDScript::7606502840409548946::1760535598::0::1::::<>HBoxContainer<><>0<>1<><>::
+entry.tscn::PackedScene::8324639053267566507::1760535598::0::1::::<><><>0<>0<><>::res://addons/PolyHavenImport/entry.gd
+icon.png::CompressedTexture2D::4359680944719745189::1760535598::1760535598::1::::<><><>0<>0<>5d1311f2818ad55b8b8c8ccfd163b77b<>res://.godot/imported/icon.png-638be08931631412365628dede636614.ctex::
+logo-256.png::CompressedTexture2D::2389611613655300576::1760535598::1760535598::1::::<><><>0<>0<>01123a913b60a542cb9e9fff65e3223b<>res://.godot/imported/logo-256.png-31d72dd07212da253bceb5242e780be9.ctex::
+page.gd::GDScript::7398633057042573117::1760535598::0::1::::Page<>Control<><>0<>1<><>::
+plugin.cfg::TextFile::-1::1760535598::0::1::::<><><>0<>0<><>::
+plugin.gd::GDScript::3205945382655893369::1760535598::0::1::::<>EditorPlugin<><>0<>1<><>::
+::res://assets/::1760538004
+checker.png::CompressedTexture2D::5642673378611736033::1760538004::1760538004::1::::<><><>0<>0<>11686e0a96d492456f9b96b4f31989ee<>res://.godot/imported/checker.png-7dcf8ccb90954474f03b6153c771f4ea.s3tc.ctex::
+::res://assets/HDRIs/::1760535637
+::res://assets/HDRIs/Qwantani Morning (Pure Sky)/::1760535637
+::res://assets/HDRIs/Qwantani Morning (Pure Sky)/1k/::1760539602
+Qwantani Morning (Pure Sky).exr::CompressedTexture2D::7173045685378422661::1760535637::1760535661::1::::<><><>0<>0<>bb25037d86bc05c10378cf303bffc1fd<>res://.godot/imported/Qwantani Morning (Pure Sky).exr-06e864f9cc4080f936ce9b25c8c1ec64.bptc.ctex::
+Qwantani Morning (Pure Sky).tres::Sky::5017506657727596945::1760539602::0::1::::<><><>0<>0<><>::uid://dagxaqxw3a2kf::::res://assets/HDRIs/Qwantani Morning (Pure Sky)/1k/Qwantani Morning (Pure Sky).exr
+::res://assets/textures/::1760536834
+::res://assets/textures/Leafy Grass/::1760536749
+::res://assets/textures/Leafy Grass/1k/::1760536750
+Leafy Grass.tres::StandardMaterial3D::1157929964937357401::1760536750::0::1::::<><><>0<>0<><>::uid://ehrcbe8rvt3g::::res://assets/textures/Leafy Grass/1k/textures/leafy_grass_diff_1k.png<>uid://xkod1ygueajn::::res://assets/textures/Leafy Grass/1k/textures/leafy_grass_ao_1k.png<>uid://8lrgl1k4cxxx::::res://assets/textures/Leafy Grass/1k/textures/leafy_grass_disp_1k.png<>uid://whyi64qqbk60::::res://assets/textures/Leafy Grass/1k/textures/leafy_grass_nor_gl_1k.png<>uid://dehtpshoum1hj::::res://assets/textures/Leafy Grass/1k/textures/leafy_grass_rough_1k.png
+::res://assets/textures/Leafy Grass/1k/textures/::1760536753
+leafy_grass_ao_1k.png::CompressedTexture2D::1635843979477694303::1760536749::1760536753::1::::<><><>0<>0<>22347cd10c5eea6a526b437ef592d86d<>res://.godot/imported/leafy_grass_ao_1k.png-5e7f90f3a5b2f3e966c365a189e8e187.s3tc.ctex::
+leafy_grass_diff_1k.png::CompressedTexture2D::296241839520890466::1760536749::1760536753::1::::<><><>0<>0<>b82fd01307eedcd3d13cdc316266ee03<>res://.godot/imported/leafy_grass_diff_1k.png-9f19c95a5d89be2ad659e9ff172179a5.s3tc.ctex::
+leafy_grass_disp_1k.png::CompressedTexture2D::2339983517405165857::1760536749::1760536753::1::::<><><>0<>0<>e43d5bcf0bec4ff496515b12b1a2ccb1<>res://.godot/imported/leafy_grass_disp_1k.png-ea4c3569891803aabe3f7a4e103a17c3.s3tc.ctex::
+leafy_grass_nor_gl_1k.png::CompressedTexture2D::1560078372264347815::1760536749::1760536753::1::::<><><>0<>0<>1f10655edb795daed5b2d96ecc3cba24<>res://.godot/imported/leafy_grass_nor_gl_1k.png-4eee8c1cca866fd44f70d720c89db7bd.s3tc.ctex::
+leafy_grass_rough_1k.png::CompressedTexture2D::7455649436578245503::1760536749::1760536753::1::::<><><>0<>0<>0294b8c437f8006a2b6efdafcb9c7492<>res://.godot/imported/leafy_grass_rough_1k.png-3065702fae791aa7497d7c3e64a8e459.s3tc.ctex::
+::res://assets/textures/Rock Face/::1760536834
+::res://assets/textures/Rock Face/1k/::1760536835
+Rock Face.tres::StandardMaterial3D::4055412073458729800::1760536835::0::1::::<><><>0<>0<><>::uid://bbwdc16mwr0u7::::res://assets/textures/Rock Face/1k/textures/rock_face_diff_1k.png<>uid://df0fnt5g1opth::::res://assets/textures/Rock Face/1k/textures/rock_face_ao_1k.png<>uid://cbcti4v7epju1::::res://assets/textures/Rock Face/1k/textures/rock_face_disp_1k.png<>uid://c7lt8lfeeh783::::res://assets/textures/Rock Face/1k/textures/rock_face_nor_gl_1k.png<>uid://juht76jp0414::::res://assets/textures/Rock Face/1k/textures/rock_face_rough_1k.png
+::res://assets/textures/Rock Face/1k/textures/::1760536836
+rock_face_ao_1k.png::CompressedTexture2D::7562143558001266201::1760536834::1760536836::1::::<><><>0<>0<>e1fefaa378ae9af5f8ac5ad2b0f9d9af<>res://.godot/imported/rock_face_ao_1k.png-5a855f01b610f0d626af53faad115dd6.s3tc.ctex::
+rock_face_diff_1k.png::CompressedTexture2D::2502212974557920596::1760536834::1760536836::1::::<><><>0<>0<>3407692d9271f1c20172a136f2b05b0b<>res://.godot/imported/rock_face_diff_1k.png-4fc6e19cd68053f9a9e88bf384cfb6b5.s3tc.ctex::
+rock_face_disp_1k.png::CompressedTexture2D::4848328432824082526::1760536834::1760536836::1::::<><><>0<>0<>52af2ece63a2d10f9e5088a520c53460<>res://.godot/imported/rock_face_disp_1k.png-035b31e9409ba3aa0b11821b1bcd2048.s3tc.ctex::
+rock_face_nor_gl_1k.png::CompressedTexture2D::7042805658827594294::1760536834::1760536836::1::::<><><>0<>0<>22cfea1d3a2f3aac785f553c1e36c227<>res://.godot/imported/rock_face_nor_gl_1k.png-c9574482c48234e55020438c1e400b3d.s3tc.ctex::
+rock_face_rough_1k.png::CompressedTexture2D::673447825923167645::1760536834::1760536836::1::::<><><>0<>0<>5f15e883cd3a9b0763ffe42c2cf4f2e1<>res://.godot/imported/rock_face_rough_1k.png-008dbb1a6821d2aeacef6113e86c59d7.s3tc.ctex::
+::res://assets/textures/Sandy Gravel/::1760536793
+::res://assets/textures/Sandy Gravel/1k/::1760536793
+Sandy Gravel.tres::StandardMaterial3D::6968533494560756518::1760536793::0::1::::<><><>0<>0<><>::uid://ba68eukk8vcrf::::res://assets/textures/Sandy Gravel/1k/textures/sandy_gravel_diff_1k.png<>uid://coq8jhg4wor2a::::res://assets/textures/Sandy Gravel/1k/textures/sandy_gravel_ao_1k.png<>uid://s3vi6qpkc2ay::::res://assets/textures/Sandy Gravel/1k/textures/sandy_gravel_disp_1k.png<>uid://crn2dih4yadqn::::res://assets/textures/Sandy Gravel/1k/textures/sandy_gravel_nor_gl_1k.png<>uid://bewbd6sra3leh::::res://assets/textures/Sandy Gravel/1k/textures/sandy_gravel_rough_1k.png
+::res://assets/textures/Sandy Gravel/1k/textures/::1760536794
+sandy_gravel_ao_1k.png::CompressedTexture2D::5790535333569924298::1760536793::1760536794::1::::<><><>0<>0<>21a9d2482fd7d5a8a1edcf8e10e0a6f3<>res://.godot/imported/sandy_gravel_ao_1k.png-6f42bddd14448be2c050612974a9dbde.s3tc.ctex::
+sandy_gravel_diff_1k.png::CompressedTexture2D::2452428264420195655::1760536793::1760536794::1::::<><><>0<>0<>24425332d5af560070e85b72fdf7b596<>res://.godot/imported/sandy_gravel_diff_1k.png-39b208d66fbcc082ff37e94b170331c8.s3tc.ctex::
+sandy_gravel_disp_1k.png::CompressedTexture2D::1322492759433321236::1760536793::1760536794::1::::<><><>0<>0<>b97a9fe07336a95a94ce3da20b4ede60<>res://.godot/imported/sandy_gravel_disp_1k.png-00041a7604b6f50b93dd91e224a2177a.s3tc.ctex::
+sandy_gravel_nor_gl_1k.png::CompressedTexture2D::5994533768572074393::1760536793::1760536794::1::::<><><>0<>0<>f68c618c93d810a1572dfc2681df571f<>res://.godot/imported/sandy_gravel_nor_gl_1k.png-3c07cfdfc4730954a4489300ab8634a8.s3tc.ctex::
+sandy_gravel_rough_1k.png::CompressedTexture2D::2712660100012876347::1760536793::1760536794::1::::<><><>0<>0<>266a440a35025687ef4f336b3ebab4b4<>res://.godot/imported/sandy_gravel_rough_1k.png-0a39fb403ba7f53d8f70abe7a311f5a4.s3tc.ctex::
+::res://example/::1760538133
+::res://example/boujie_water_shader/::1760538135
+camera.gd::GDScript::2644650661813256495::1760538133::0::1::::<>Camera3D<><>0<>0<><>::
+DropWithDistance.gdshader::Shader::9115998596663718863::1760538133::0::1::::<><><>0<>0<><>::
+fps_counter.gd::GDScript::5616384022983590447::1760538133::0::1::::<>Label<><>0<>0<><>::
+help.gd::GDScript::3311644816904380609::1760538133::0::1::::<>Label<><>0<>0<><>::
+hud.gd::GDScript::2860533371379122587::1760538133::0::1::::<>Control<><>0<>0<><>::
+MapEnvironment.tres::Environment::749131510658937890::1760538133::0::1::::<><><>0<>0<><>::
+mountains.obj::Mesh::420896676503450072::1760538133::1760538135::1::::<><><>0<>0<>cb87d55a92cf9a74574ce72d8ebd387b<>res://.godot/imported/mountains.obj-b635f0bf390e5658745323d1681944e7.mesh<*>res://.godot/imported/mountains.obj-b635f0bf390e5658745323d1681944e7.mesh::
+mountain_material.tres::StandardMaterial3D::7050318807362249672::1760538133::0::1::::<><><>0<>0<><>::uid://3kpp1l04oqfu::::res://example/boujie_water_shader/obelisk/StoneFloorTexture.png
+ocean_floor.gd::GDScript::2003794091557495588::1760538134::0::1::::<>MeshInstance3D<><>0<>1<><>::
+Sand.png::CompressedTexture2D::8741379992662034642::1760538133::1760538135::1::::<><><>0<>0<>5e37ef77afbfb9e0c899f9dcdddfd4af<>res://.godot/imported/Sand.png-85ed17ac5b6334e2f77e493ffa3f725e.s3tc.ctex::
+subdivcube.obj::Mesh::4739839316066879042::1760538134::1760538135::1::::<><><>0<>0<>629f95b991b34bc3feada9038c663f0c<>res://.godot/imported/subdivcube.obj-ec0a8294dde80b8a76cf6121fc00838f.mesh<*>res://.godot/imported/subdivcube.obj-ec0a8294dde80b8a76cf6121fc00838f.mesh::
+underwater_fog.gd::GDScript::9051363445447691029::1760538134::0::1::::<>FogVolume<><>0<>0<><>::
+UV_checker_grid_dark.png::CompressedTexture2D::3557814196156859334::1760538133::1760538135::1::::<><><>0<>0<>dc0fa9190360c10c2cbaff43b8d77faf<>res://.godot/imported/UV_checker_grid_dark.png-87fbdfe910052eaa76309e869c41533e.s3tc.ctex::
+visibility_range_lod_group.gd::GDScript::4951006247970466037::1760538134::0::1::::<>Node3D<><>0<>0<><>::
+water_shader_examples.gd::GDScript::2106990343078076756::1760538134::0::1::::<>Node3D<><>0<>1<><>::
+water_shader_examples.tscn::PackedScene::2416875730846953745::1760538134::0::1::::<><><>0<>0<><>::res://example/boujie_water_shader/water_shader_examples.gd<>uid://ignpdv10rx52::::res://addons/boujie_water_shader/prefabs/deep_ocean.tscn<>res://example/boujie_water_shader/DropWithDistance.gdshader<>uid://dwsniss71hd03::::res://example/boujie_water_shader/Sand.png<>uid://bf2pvto4lly3o::::res://example/boujie_water_shader/foam_waves/foam1.tres<>res://example/boujie_water_shader/ocean_floor.gd<>uid://bavxgduu5sv2c::::res://example/boujie_water_shader/height_waves/height1.tres<>res://addons/boujie_water_shader/types/water_material_designer.gd<>uid://1wsbw638p6o2::::res://example/boujie_water_shader/foam_waves/foam2.tres<>uid://c33noe5oxh41i::::res://example/boujie_water_shader/height_waves/height2.tres<>uid://dp2iua60m7f8m::::res://example/boujie_water_shader/uv_waves/uvwave1.tres<>uid://byfaqt1j16ysr::::res://example/boujie_water_shader/foam_waves/foam3.tres<>uid://cvnsu7lttsfsh::::res://addons/boujie_water_shader/prefabs/outset_ocean_material.tres<>uid://0hol4u8hadr8::::res://example/boujie_water_shader/height_waves/height3.tres<>uid://3g1mc132n1al::::res://example/boujie_water_shader/uv_waves/uvwave2.tres<>uid://c5j78g2giv011::::res://example/boujie_water_shader/foam_waves/foam4.tres<>uid://cxeeuqlnw0v08::::res://example/boujie_water_shader/height_waves/height4.tres<>uid://d4jrd7iuain81::::res://example/boujie_water_shader/height_waves/height5.tres<>res://addons/boujie_water_shader/types/gerstner_wave.gd<>uid://dn0ukrkqrpmne::::res://example/boujie_water_shader/obelisk/obelisk.tscn<>uid://cuagegibp4wcj::::res://example/boujie_water_shader/pedestal/pedestal.tscn<>uid://kw5c7bat248e::::res://example/boujie_water_shader/MapEnvironment.tres<>uid://b17lc50fphxnr::::res://addons/boujie_water_shader/prefabs/ice_material.tres<>uid://dcwd8ciggcoqu::::res://addons/boujie_water_shader/prefabs/obsidian_material.tres<>uid://b8sapw7ttyhru::::res://example/boujie_water_shader/subdivcube.obj<>res://example/boujie_water_shader/camera.gd<>res://example/boujie_water_shader/underwater_fog.gd<>uid://cu46b100244nd::::res://addons/boujie_water_shader/prefabs/deep_ocean_material.tres<>res://example/boujie_water_shader/visibility_range_lod_group.gd<>uid://3kpp1l04oqfu::::res://example/boujie_water_shader/obelisk/StoneFloorTexture.png<>res://example/boujie_water_shader/hud.gd<>res://example/boujie_water_shader/fps_counter.gd<>uid://f85dvooifh0c::::res://example/boujie_water_shader/mountains.obj<>uid://c7phyredymkgu::::res://example/boujie_water_shader/mountain_material.tres
+::res://example/boujie_water_shader/foam_waves/::1760538133
+foam1.tres::Resource/GerstnerWave::2794052378710079310::1760538133::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+foam2.tres::Resource/GerstnerWave::1871422141561415227::1760538133::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+foam3.tres::Resource/GerstnerWave::4081304431032133389::1760538133::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+foam4.tres::Resource/GerstnerWave::6899088308415078554::1760538133::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+::res://example/boujie_water_shader/height_waves/::1760538133
+height1.tres::Resource/GerstnerWave::2431180011541084380::1760538133::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+height2.tres::Resource/GerstnerWave::6796746145490089432::1760538133::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+height3.tres::Resource/GerstnerWave::1770042972442882303::1760538133::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+height4.tres::Resource/GerstnerWave::6395721723913868367::1760538133::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+height5.tres::Resource/GerstnerWave::9214357156642203888::1760538133::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+height_super.tres::Resource/GerstnerWave::8380313694060878896::1760538133::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+::res://example/boujie_water_shader/obelisk/::1760538136
+diffuse.tga::CompressedTexture2D::2133209283773664314::1760538133::1760538135::1::::<><><>0<>0<>2b5cbeb8224da086e5387fe5d6761583<>res://.godot/imported/diffuse.tga-3b468a6844fdaae3b2e1169d98549e73.s3tc.ctex::
+normal.tga::CompressedTexture2D::6320736509435500376::1760538133::1760538135::1::::<><><>0<>0<>f79133abe00537c7b36d5667d8d4cc45<>res://.godot/imported/normal.tga-3b5ab8c91e9d8bca47aa38c7d6bd0419.s3tc.ctex::
+obelisk.tscn::PackedScene::8124559569114881782::1760538134::0::1::::<><><>0<>0<><>::uid://cj0csa11nva20::::res://example/boujie_water_shader/obelisk/pyramid_pillar.obj<>uid://b5yp2r2ccy8cj::::res://example/boujie_water_shader/obelisk/obelisk_material.tres<>uid://dm15sg1uklilb::::res://example/boujie_water_shader/pedestal/pedestal_material.tres
+obelisk_material.tres::StandardMaterial3D::4542590964959633073::1760538134::0::1::::<><><>0<>0<><>::uid://5nlv65oy8011::::res://example/boujie_water_shader/obelisk/diffuse.tga<>uid://bwo57ja5h8p0r::::res://example/boujie_water_shader/obelisk/specular.tga<>uid://cwb2uvrheh7b5::::res://example/boujie_water_shader/obelisk/normal.tga
+pyramid_pillar.obj::Mesh::5456304023620243559::1760538134::1760538136::1::::<><><>0<>0<>c36cb8c03733b21ce5e01ae119cf122e<>res://.godot/imported/pyramid_pillar.obj-5fea3b09eae43d640ddc41beb371c9de.mesh<*>res://.godot/imported/pyramid_pillar.obj-5fea3b09eae43d640ddc41beb371c9de.mesh::
+specular.tga::CompressedTexture2D::3961355661558484567::1760538134::1760538135::1::::<><><>0<>0<>9a4540b8ebc7ba99982840e4c2918243<>res://.godot/imported/specular.tga-36abd6fc0f4883740b53bed991563e67.s3tc.ctex::
+StoneFloorTexture.png::CompressedTexture2D::1986870324980735518::1760538133::1760538135::1::::<><><>0<>0<>2b89e65fcac37b144693393b744342a1<>res://.godot/imported/StoneFloorTexture.png-0b66480fabae869923318464acc26ce4.s3tc.ctex::
+::res://example/boujie_water_shader/pedestal/::1760538135
+MetalPlates_Diffuse.tga::CompressedTexture2D::8701789697419922548::1760538134::1760538135::1::::<><><>0<>0<>446398b215e6c6c2ed048283093457f6<>res://.godot/imported/MetalPlates_Diffuse.tga-c725e555a51c3ab0015477a9cca0757a.s3tc.ctex::
+MetalPlates_Normal_03.tga::CompressedTexture2D::4431644806558770375::1760538134::1760538135::1::::<><><>0<>0<>b729c3529753e619fe77d979e35aeea5<>res://.godot/imported/MetalPlates_Normal_03.tga-07956690d7af09a6fdbbecd877298f47.s3tc.ctex::
+pedestal.tscn::PackedScene::6176990012844250141::1760538134::0::1::::<><><>0<>0<><>::uid://dm15sg1uklilb::::res://example/boujie_water_shader/pedestal/pedestal_material.tres<>uid://cj0csa11nva20::::res://example/boujie_water_shader/obelisk/pyramid_pillar.obj<>uid://b5yp2r2ccy8cj::::res://example/boujie_water_shader/obelisk/obelisk_material.tres
+pedestal_material.tres::StandardMaterial3D::8057056006642057487::1760538134::0::1::::<><><>0<>0<><>::uid://dv8hg77du5mfk::::res://example/boujie_water_shader/pedestal/MetalPlates_Diffuse.tga<>uid://b4eyspeen6e04::::res://example/boujie_water_shader/pedestal/MetalPlates_Normal_03.tga
+::res://example/boujie_water_shader/uv_waves/::1760538134
+uvwave1.tres::Resource/GerstnerWave::8268354405871755682::1760538134::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+uvwave2.tres::Resource/GerstnerWave::1979274106248481291::1760538134::0::1::::<><>res://addons/boujie_water_shader/icons/Wave.svg<>0<>0<><>::res://addons/boujie_water_shader/types/gerstner_wave.gd
+::res://export/::1760539745
+::res://export/linux/::1760539745
+::res://export/windows/::1760539729
+::res://scenes/::1760538004
+Pier.tscn::PackedScene::8599410672204195422::1760538004::0::1::::<><><>0<>0<><>::uid://d4kuxhbpjjs3s::::res://standard_shaders/simple_wood.tres
+::res://scripts/::1760538004
+Camera3D.gd::GDScript::-1::1760538004::0::1::::<>Camera3D<><>0<>0<><>::
+worldgen.gd::GDScript::1274635339812299901::1760537914::0::1::::<>Node3D<><>0<>0<><>::

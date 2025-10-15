@@ -1,0 +1,33 @@
+res://addons/boujie_water_shader/prefabs/deep_ocean.tscn::49430a063c0a8ccd833e02a40ea03ffa::1760538133::res://.godot/exported/133200997/export-dc16134f5bb465060ae6d1472f43ac00-deep_ocean.scn
+res://addons/boujie_water_shader/prefabs/deep_ocean_material.tres::5ccc4eca5c29930fbd261b7e58a3d3c3::1760538133::res://.godot/exported/133200997/export-5dc9c79fa2b16f32818ae0d78a82afd3-deep_ocean_material.res
+res://addons/boujie_water_shader/prefabs/ice_material.tres::aea115c500db97178c8dc3e024adc21f::1760538133::res://.godot/exported/133200997/export-c38e2620c3a698ccccf98a04604adfa0-ice_material.res
+res://addons/boujie_water_shader/prefabs/obsidian_material.tres::30b6b6b1e3d06f58028167842a0f5b05::1760538133::res://.godot/exported/133200997/export-3020d29190aaf7c4f4e77db5f4394b20-obsidian_material.res
+res://addons/boujie_water_shader/prefabs/outset_ocean.tscn::81b04a62f57f5411dfb85b4aeeffb679::1760538133::res://.godot/exported/133200997/export-63ce0eed753ffd4d27e168858efca70f-outset_ocean.scn
+res://addons/boujie_water_shader/prefabs/outset_ocean_material.tres::3f1e91e4ef6bb5224439ddacf5a69c37::1760538133::res://.godot/exported/133200997/export-f6fb10d9fcfaf9ebd658a5de62ce3e16-outset_ocean_material.res
+res://addons/PolyHavenImport/browse.tscn::fcdd74d81441c7a0007e2e40ffad654e::1760535598::res://.godot/exported/133200997/export-aeebbbeb8f1c942e95d9f13992703be5-browse.scn
+res://addons/PolyHavenImport/entry.tscn::93eff4d291fbb69736e74bda0218c691::1760535598::res://.godot/exported/133200997/export-0eb9673125b6d8d471df217ebad71ae7-entry.scn
+res://assets/HDRIs/Qwantani Morning (Pure Sky)/1k/Qwantani Morning (Pure Sky).tres::52dcb1a78a6bc8e406774ed8fb0bd807::1760539602::res://.godot/exported/133200997/export-0fedb2c9c24d4ce2400b37976c60c119-Qwantani Morning (Pure Sky).res
+res://assets/textures/Leafy Grass/1k/Leafy Grass.tres::4464b319ee28a9d81b0e00510b2c522f::1760536750::res://.godot/exported/133200997/export-a28053761adf435e2c39e359319096a6-Leafy Grass.res
+res://assets/textures/Rock Face/1k/Rock Face.tres::e469039f6ca2825deb9cb5828d71f0f2::1760536835::res://.godot/exported/133200997/export-2ed999b38d72fab31476fb52bb2ff869-Rock Face.res
+res://assets/textures/Sandy Gravel/1k/Sandy Gravel.tres::11600742a3e6445ced9740e690175929::1760536793::res://.godot/exported/133200997/export-681bcf7622d7f142ded552cc48af4c3d-Sandy Gravel.res
+res://example/boujie_water_shader/foam_waves/foam1.tres::45fe4a576d95a8e85af96d2ce151dc04::1760538133::res://.godot/exported/133200997/export-497088c7f0e5f37a62a9faf3dcad16d3-foam1.res
+res://example/boujie_water_shader/foam_waves/foam2.tres::79aa99145ba51c92d7048656aeb87489::1760538133::res://.godot/exported/133200997/export-7b7c1481b23e2888c03fc1b44b1f1187-foam2.res
+res://example/boujie_water_shader/foam_waves/foam3.tres::d4f71c7f575d9366b6dfccb321a3c351::1760538133::res://.godot/exported/133200997/export-99a8d45ddf6ec86ff1cac290b4a5e05c-foam3.res
+res://example/boujie_water_shader/foam_waves/foam4.tres::b73eb65eabc4101bae10f45e51911cd2::1760538133::res://.godot/exported/133200997/export-e4ada357646d206d9f169a947a272224-foam4.res
+res://example/boujie_water_shader/height_waves/height1.tres::67b8190512a433ae53f13bd59e3f0c6e::1760538133::res://.godot/exported/133200997/export-45bf1f19b6f247ac372220e4f539bf8b-height1.res
+res://example/boujie_water_shader/height_waves/height2.tres::2b0c02a7b85942b4a89a73534b308491::1760538133::res://.godot/exported/133200997/export-78179db0372fd90b2ecb0a7cab3176e3-height2.res
+res://example/boujie_water_shader/height_waves/height3.tres::9a14d67d8133871cdab5656c59662018::1760538133::res://.godot/exported/133200997/export-831da0f86099daa6cdb1e7fe724cef9f-height3.res
+res://example/boujie_water_shader/height_waves/height4.tres::4518ffe76f57c19cd99bd09443bedeff::1760538133::res://.godot/exported/133200997/export-877ca30b3780d1fcb9e8860f05452eee-height4.res
+res://example/boujie_water_shader/height_waves/height5.tres::636b2c056e3142b56c7ff6d456a7dc3e::1760538133::res://.godot/exported/133200997/export-070479ea7b433d74bee775ba67dac997-height5.res
+res://example/boujie_water_shader/height_waves/height_super.tres::8964d65ed4c19147c7febd264ab7802e::1760538133::res://.godot/exported/133200997/export-1f6eedf6ce07373ffe88c7b5ca6a2330-height_super.res
+res://example/boujie_water_shader/obelisk/obelisk.tscn::96600caae23c2be1145ed51586a07490::1760538134::res://.godot/exported/133200997/export-08ddd198c369ca262a9812136c4b670c-obelisk.scn
+res://example/boujie_water_shader/obelisk/obelisk_material.tres::542049db38ec91868dba815bc6d5a5de::1760538134::res://.godot/exported/133200997/export-00d36ba12eeb9da7438a3f59d5804371-obelisk_material.res
+res://example/boujie_water_shader/pedestal/pedestal.tscn::e138c867873bd911f91b254e52ed3a5b::1760538134::res://.godot/exported/133200997/export-e7793a95b9b0cc1c4d61cd8b87a171df-pedestal.scn
+res://example/boujie_water_shader/pedestal/pedestal_material.tres::ac0ec72918ff34514480efaf86c68066::1760538134::res://.godot/exported/133200997/export-03dfb10703b771984fdca88f8b24f3f3-pedestal_material.res
+res://example/boujie_water_shader/uv_waves/uvwave1.tres::6a9a7bdcb07259856856085617f9e549::1760538134::res://.godot/exported/133200997/export-f47e21ec5737890cc21d5bb09a6acaaa-uvwave1.res
+res://example/boujie_water_shader/uv_waves/uvwave2.tres::037334d301c07c7ad258d820764e9d67::1760538134::res://.godot/exported/133200997/export-07f02c6d5b31cec48aedb773380a2559-uvwave2.res
+res://example/boujie_water_shader/MapEnvironment.tres::35705f2e0bf5d4353b9f8aed34d321cc::1760538133::res://.godot/exported/133200997/export-7ed07cbcaefd2bafdb5e9d7b158e1cc3-MapEnvironment.res
+res://example/boujie_water_shader/mountain_material.tres::be79b72ebee441071741eb49331b8e0a::1760538133::res://.godot/exported/133200997/export-0d403899bd983af3fc219374f5c99b7d-mountain_material.res
+res://example/boujie_water_shader/water_shader_examples.tscn::737ac4b533a8a84e6d83d5e304054e83::1760538134::res://.godot/exported/133200997/export-b0817df471dbf936b76515a2e5a00c04-water_shader_examples.scn
+res://water.tres::a2cd42e7a8c56056ca17801fc5801d3e::1760538169::res://.godot/exported/133200997/export-149afc0dcac1e98be9a816c474bea600-water.res
+res://world.tscn::4ab72f400776521ac33032b65c71410d::1760540866::res://.godot/exported/133200997/export-76e0adcbc83681695885bae615f516ae-world.scn
