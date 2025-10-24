@@ -3,6 +3,9 @@
 
 A simple 3D demo/benchmark made in Godot
 
+## current status
+this project was really an experiment and is really junky, so this repository is archived
+
 
 <img width="1009" height="444" alt="ss" src="https://github.com/user-attachments/assets/130e9766-91e4-4c20-a344-d9b18ff3e629" />
 
